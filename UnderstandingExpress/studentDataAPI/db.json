@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Aswartha",
+    "course": "Front End Web",
+    "batch": "March 2025",
+    "id": 3
+  },
+  {
+    "name": "Lokesh",
+    "course": "Back End Web",
+    "batch": "January 2025",
+    "id": 4
+  },
+  {
+    "name": "MAhesh",
+    "course": "Back End Web",
+    "batch": "Febrauary 2025",
+    "id": 5
+  }
+]
