@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fix API Response Bug",
+    "description": "Investigate and resolve issue with 500 error on /books/:id endpoint",
+    "tag": "coding",
+    "priority": "high",
+    "id": "1",
+    "status": "pending"
+  },
+  {
+    "title": "Set Up React Router Pages",
+    "description": "Implement multi-page routing for the feedback system using React Router",
+    "tag": "coding",
+    "priority": "high",
+    "id": "11",
+    "status": "pending"
+  },
+  {
+    "title": "Update Resume",
+    "description": "Add recent project work and technical skills to resume",
+    "tag": "personal_dev",
+    "priority": "low",
+    "id": "111",
+    "status": "pending"
+  }
+]
