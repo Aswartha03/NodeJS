@@ -1,0 +1,13 @@
+1 . mongosh : The term 'mongosh' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a 
+    path was included, verify that the path is correct and try again.
+    At line:1 char:1
+    + mongosh
+    + ~~~~~~~
+        + CategoryInfo          : ObjectNotFound: (mongosh:String) [], CommandNotFoundException
+        + FullyQualifiedErrorId : CommandNotFoundException
+    I got this error . Because i was not install mongo Db Shell Properly.
+2 .db.orders.find({"amount":>=15000})
+    Uncaught:
+    SyntaxError: Unexpected token (1:25)
+    Got this error while finding all the orders which have total_Amount>=15000
+    by using "$gte" i was able to do that functionality.. 

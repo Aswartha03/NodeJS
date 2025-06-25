@@ -1,0 +1,30 @@
+[
+  {
+    "order_id": 2,
+    "customer_name": "Jane Smith",
+    "items": ["Headphones", "Charger"],
+    "amount": 3000,
+    "status": "shipped"
+  },
+  {
+    "order_id": 3,
+    "customer_name": "Alice Johnson",
+    "items": ["Mobile Phone"],
+    "amount": 20000,
+    "status": "delivered"
+  },
+  {
+    "order_id": 4,
+    "customer_name": "Bob Brown",
+    "items": ["Tablet", "Keyboard"],
+    "amount": 15000,
+    "status": "pending"
+  },
+  {
+    "order_id": 5,
+    "customer_name": "Chris Green",
+    "items": ["Smartwatch"],
+    "amount": 7000,
+    "status": "shipped"
+  }
+]
