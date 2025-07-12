@@ -29,6 +29,8 @@ app.get ('/sendemail', async (req, res) => {
   });
   res.status(200).json({message:"Email Sent"})
 });
+
+
 app.use ((req, res) => {
   res.status (404).json ({message: '404 , Route is Not Found'});
 });
